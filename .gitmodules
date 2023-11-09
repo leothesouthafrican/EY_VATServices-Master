@@ -1,0 +1,12 @@
+[submodule "services/PDF2Image-Service"]
+	path = services/PDF2Image-Service
+	url = https://github.com/leothesouthafrican/EY_PDF2Image-Service.git
+[submodule "services/Image2Text-Service"]
+	path = services/Image2Text-Service
+	url = https://github.com/leothesouthafrican/EY_Image2Text-Service.git
+[submodule "services/Text2Structure-Service"]
+	path = services/Text2Structure-Service
+	url = https://github.com/leothesouthafrican/EY_Text2Structure-Service.git
+[submodule "services/VATInference-Service"]
+	path = services/VATInference-Service
+	url = https://github.com/leothesouthafrican/EY_VATInference-Service.git
