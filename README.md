@@ -35,7 +35,7 @@ To get started with running all the services together, ensure you have Docker in
    ```
    3.2 Execute the script by running:
    ```bash
-    ./env_setup.sh
+    ./setup.sh
    ```
 
 4. Build and start all of the services:
