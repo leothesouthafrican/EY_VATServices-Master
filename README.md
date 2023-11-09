@@ -1,4 +1,4 @@
-# EY Services Master Repository
+# EY VAT Services Master Repository
 
 This repository serves as the master entry point for various microservices designed to automate EY's VAT Return department. Each microservice is responsible for a specific task in the automation pipeline, from converting PDF documents to images, extracting text from images, structuring text data, to predicting VAT codes.
 
