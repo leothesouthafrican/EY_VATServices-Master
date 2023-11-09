@@ -1,0 +1,21 @@
+version: '3'
+services:
+  pdf2image_service:
+    build: ./services/PDF2Image-Service
+    ports:
+      - "4000:4000"
+
+  image2text_service:
+    build: ./services/Image2Text-Service
+    ports:
+      - "4001:4001"
+
+  text2structure_service:
+    build: ./services/Text2Structure-Service
+    ports:
+      - "4002:4002"
+
+  vatinference_service:
+    build: ./services/VATInference-Service
+    ports:
+      - "4003:4003"
