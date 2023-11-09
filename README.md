@@ -25,7 +25,7 @@ To get started with running all the services together, ensure you have Docker in
 
    * OPENAI_API_KEY = "..."
    * GOOGLE_API_KEY = "..."
-   * GOOGLE_CSE_ID = "...."
+   * GOOGLE_CSE_ID = "..."
 
 
 3. Build and start all of the services:
