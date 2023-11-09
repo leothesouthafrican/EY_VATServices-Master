@@ -18,7 +18,7 @@ To get started with running all the services together, ensure you have Docker in
    ```bash
    git clone --recurse-submodules https://github.com/leothesouthafrican/EY_Services_Master.git
    cd EY_Services_Master
-  ```
+```
 
 2. Build and start all of the services:
 
