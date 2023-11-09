@@ -23,11 +23,14 @@ To get started with running all the services together, ensure you have Docker in
 
 2. Add a .env file in the root directory containing the following:
 
+```
 * OPENAI_API_KEY = "..."
 * GOOGLE_API_KEY = "..."
 * GOOGLE_CSE_ID = "...."
 
-2. Build and start all of the services:
+```
+
+3. Build and start all of the services:
 
    ```bash
    docker-compose up --build
