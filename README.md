@@ -13,11 +13,11 @@ This repository serves as the master entry point for various microservices desig
 
 To get started with running all the services together, ensure you have Docker installed and follow the steps below:
 
-1. Clone this repository:
+1. Clone the "dev" branch of this repository including all of its submodules:
 
    ```bash
-   git clone --recurse-submodules https://github.com/leothesouthafrican/EY_VATServices_Master.git
-   cd EY_Services_Master
+   git clone --recurse-submodules -b dev https://github.com/leothesouthafrican/EY_VATServices_Master.git
+   cd EY_VATServices_Master
    
    ```
 
