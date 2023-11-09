@@ -16,7 +16,7 @@ To get started with running all the services together, ensure you have Docker in
 1. Clone this repository:
 
    ```bash
-   git clone --recurse-submodules https://github.com/leothesouthafrican/EY_Services_Master.git
+   git clone --recurse-submodules https://github.com/leothesouthafrican/EY_VATServices_Master.git
    cd EY_Services_Master
    
    ```
