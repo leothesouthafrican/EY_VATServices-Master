@@ -26,9 +26,19 @@ To get started with running all the services together, ensure you have Docker in
    * OPENAI_API_KEY = "..."
    * GOOGLE_API_KEY = "..."
    * GOOGLE_CSE_ID = "..."
+  
+3. Run the setup.sh script in the root directory, to setup an environment for each submodule, should you need this.
 
+   3.1 Make the script executable by running:
+   ```bash
+    chmod +x setup.sh
+   ```
+   3.2 Execute the script by running:
+   ```bash
+    ./env_setup.sh
+   ```
 
-3. Build and start all of the services:
+4. Build and start all of the services:
 
    ```bash
    docker-compose up --build
